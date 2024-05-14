@@ -21,7 +21,7 @@ repository               : "FatimaQuiEsc/fatimaqe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Fátima Quijas Escalera"
   pronouns         : # example: "she/her"  
   bio              : "Physics (Short biography for the left-hand sidebar)"
